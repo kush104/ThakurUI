@@ -1,0 +1,2 @@
+[{_id:1, 'username':'Sourav','password':'Bhargava','role': 'USER'},
+{_id:2, 'username':'admin',password:'pass',role: 'ADMIN'}]
